@@ -1,0 +1,10 @@
+"""
+ASSIGNMENT 
+
+Create a program that has 2 variables 
+The program should be able to perform the following operations:  Addition, Subtraction, Multiplication and Division.
+
+When you run the program on your terminal, it should print it out with a text (Eg: This is the sum of the two numbers: Sum)
+
+Each Program should start with a multi-line comment that states what the program is all about
+"""
