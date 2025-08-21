@@ -1,10 +1,14 @@
-"""
-ASSIGNMENT 
-
-Create a program that has 2 variables 
-The program should be able to perform the following operations:  Addition, Subtraction, Multiplication and Division.
-
-When you run the program on your terminal, it should print it out with a text (Eg: This is the sum of the two numbers: Sum)
-
-Each Program should start with a multi-line comment that states what the program is all about
-"""
+debbie: https://github.com/Debbie2007
+jude: https://github.com/Ndubuisijude
+pascal: https://github.com/Paschal18-bit
+chisom: https://github.com/lex0849
+daniel: https://github.com/ikennaDANIEL004
+despina: https://github.com/Nnebo-Despina
+irene: https://github.com/IreneIruoma
+chimamanda: https://github.com/chimamandamaduekwe
+sanctus: https://github.com/Sanctus123-tech
+justina: https://github.com/Justina411
+miracle: https://github.com/K1NGLuFFY
+kamsi: https://github.com/kamsimbah09
+emmanuel:https://github.com/emmanuelllllll
+great : https://github.com/GreatFi/Sing.git
