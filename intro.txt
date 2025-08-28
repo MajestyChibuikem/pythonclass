@@ -12,3 +12,6 @@ miracle: https://github.com/K1NGLuFFY
 kamsi: https://github.com/kamsimbah09
 emmanuel:https://github.com/emmanuelllllll
 great : https://github.com/GreatFi/Sing.git
+ezekiel:
+Iniubong:
+Dominic:
