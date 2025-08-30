@@ -11,23 +11,34 @@ num2 = int(input("enter your second number: "))
 op = input("enter your operation: sum \nproduct \nquotient \ndifference ").lower()
 
 #sum, difference, quotient, product
-sum = num1 + num2
-difference = num1 - num2
-quotient  = num1 / num2
-product = num1 * num2
+def addition():
+    sum = num1 + num2
+    print(f"this is the sum: {sum}")
+
+def diff():
+    difference = num1 - num2
+    print(f"this is the difference of the two numbers: {difference}")
+
+def divide():
+    quotient  = num1 / num2
+    print(f"this is the quotient of two numbers: {quotient}")
+
+def multiply():
+    product = num1 * num2
+    print(f"this is the product of two numbers: {product}")
 
 
 if (op.lower() == "sum"): 
-    print(f"this is the sum: {sum}")
+    addition()
 elif (op.lower() == "difference"):
-    print(f"this is the difference of the two numbers: {difference}")
+    diff()
 elif (op.lower() == "quotient"):
     if (num2 == 0):
         print("undefined")
     else:
-        print(f"this is the quotient of two numbers: {quotient}")
+        divide()
 elif (op.lower() == "product"):
-    print(f"this is the product of two numbers: {product}")
+    multiply()
 else:
     print("invalid operator")
 
