@@ -1,25 +1,24 @@
-#functions
+bakeryList = ["bread", "cake", "donuts", "cookies", "muffins", "strawberry cake"]
 
-def my_function(child1 = "majesty"):
-  print("The oldest child is " + child1)
+# classList = ["nenye", "actress", "despina", "kamsy", "somto", "sanctus", " chisom", "irene", "pascal", "jude", "daniel" ]
 
-  
+# # function check through my list for strawberry cake
+def checkStock(pastry):
+    counter = 0
+    for item in pastry:
+        if item != "strawberry cake":
+          counter += 1
+          # print(counter, " loop")
+          continue
+        else:
+            return "we have strawberry cake in stock"
+checkStock(bakeryList)
 
-my_function("chibuike")
+# def add2():
+#     num1 = 10
+#     num2 = 20
+#     sum = num1 + num2
+#     return sum
 
-# name = "majesty"
-# name1 = "kosi"
-# name2 = "somto"
-# name3 = "emmanuel"
-# name4 = "sanctus"
-# name5 = "pascal"
-
-# def greetThem(*name):
-#   print(f"hello there {name}")
-
-# greetThem(name, name1, name2, name3, name4, name5)
-
-
-
-
-
+# theSum = add2()
+# print(theSum)
