@@ -1,7 +1,25 @@
 import datetime as dt
 
-theDate = dt.datetime.now()
 
+class exampleclass():
+    def printsomething(self):
+        print("Hello from exampleclass")
+
+def printing():
+    print("Hello from printing function")
+
+
+
+printing()                        #function
+exampleclass.printsomething()       #method
+
+
+
+
+
+
+
+theDate = dt.datetime.now()
 print(theDate.year)
 print(theDate.day)
 print(theDate.month)
